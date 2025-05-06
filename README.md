@@ -1,2 +1,2 @@
 # Projeto_CRUD
-Projeto CRUD-POO  utilizando aa biblioteca SQLAlchemy
+Projeto CRUD-POO  utilizando a biblioteca  SQLAlchemy em Python
